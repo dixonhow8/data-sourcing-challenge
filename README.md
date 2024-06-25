@@ -32,16 +32,12 @@ This challenge consists of three main parts, each building on the previous one:
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Install dependencies listed in `requirements.txt`.
-3. Set up your API keys in a `.env` file following the provided format.
-4. Execute the Python scripts (`part1.py`, `part2.py`, `part3.py`) sequentially or as needed for each part of the assignment.
+2. Set up your API keys in a `.env` file following the provided format.
+4. Execute the Python script sections as needed.
 5. Review console outputs and generated CSV files for results.
 
-### Notes
-
-- Ensure adherence to API rate limits to avoid disruptions in data retrieval.
-- Customize scripts or add error handling based on specific project requirements.
-  
+## Author
+Howard P. Dixon
 
 
 
